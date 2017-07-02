@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Manel Torrent
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Blog de Manel Torrent
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://lh3.googleusercontent.com/-zF36VNarOsg/T_SL30S69II/AAAAAAAAAHQ/ELQ4DZuqnlcQoZ-3_Vu19ZLMbiGZ-NBMwCEwYBhgL/w140-h140-p/DSC02268%2B%2528Small%2529.JPG
 
 #
 # Flags below are optional
@@ -18,17 +18,17 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email:pagesto@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: msnmtp
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: +Manel Torrent
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
